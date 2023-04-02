@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "simple-blog"
+version = "0.1.0"
+description = "A simple blog webapplication"
+authors = ["Michal Stanek"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Django = "^4.1.7"
